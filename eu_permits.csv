@@ -1,0 +1,55 @@
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Building permits by type of building - quarterly data [sts_cobp_q$defaultview],,,,,,
+Open product page,Open in Data Browser,,,,,
+Description: ,-,,,,,
+,,,,,,
+Last update of data: ,,,24/07/2026 11:00,,,
+Last change of data structure: ,,,16/07/2026 11:00,,,
+,,,,,,
+,Institutional source(s),,,,,
+,,Eurostat,,,,
+,,,,,,
+,Source dataset(s),,,,,
+,,This data product is extracted from the following source datasets,,,,
+,,sts_cobp_q,Building permits by type of building - quarterly data,Open product page,Open in Data Browser,
+,Contents,Time frequency,Business trend indicator,Statistical Classification of Products by Activity (CPA 2.1),Seasonal adjustment,Unit of measure
+,#gid=1676055953,Quarterly,Building permits - number of dwellings,Buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1580477763,Quarterly,Building permits - number of dwellings,Buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=811350532,Quarterly,Building permits - number of dwellings,Residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1739958432,Quarterly,Building permits - number of dwellings,Residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1538020766,Quarterly,Building permits - number of dwellings,"Residential buildings, except residences for communities",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=638059210,Quarterly,Building permits - number of dwellings,"Residential buildings, except residences for communities",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=625389335,Quarterly,Building permits - number of dwellings,One-dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=2049199039,Quarterly,Building permits - number of dwellings,One-dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1299072966,Quarterly,Building permits - number of dwellings,Two- and more dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1369667127,Quarterly,Building permits - number of dwellings,Two- and more dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=586414372,Quarterly,Building permits - number of dwellings,Residences for communities,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=842967461,Quarterly,Building permits - number of dwellings,Residences for communities,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1137432884,Quarterly,Building permits - number of dwellings,Non-residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1756920488,Quarterly,Building permits - number of dwellings,Non-residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=413207496,Quarterly,Building permits - number of dwellings,"Non-residential buildings, except office buildings",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1450426624,Quarterly,Building permits - number of dwellings,"Non-residential buildings, except office buildings",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=165432933,Quarterly,Building permits - number of dwellings,Office buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=105802129,Quarterly,Building permits - number of dwellings,Office buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=860628156,Quarterly,Building permits - m2 of useful floor area,Buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=2116172274,Quarterly,Building permits - m2 of useful floor area,Buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1331835627,Quarterly,Building permits - m2 of useful floor area,Residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1815290692,Quarterly,Building permits - m2 of useful floor area,Residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=979889941,Quarterly,Building permits - m2 of useful floor area,"Residential buildings, except residences for communities",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1316117352,Quarterly,Building permits - m2 of useful floor area,"Residential buildings, except residences for communities",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=432369894,Quarterly,Building permits - m2 of useful floor area,One-dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1450645654,Quarterly,Building permits - m2 of useful floor area,One-dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=504876869,Quarterly,Building permits - m2 of useful floor area,Two- and more dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1677813805,Quarterly,Building permits - m2 of useful floor area,Two- and more dwelling buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1157697453,Quarterly,Building permits - m2 of useful floor area,Residences for communities,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1583954864,Quarterly,Building permits - m2 of useful floor area,Residences for communities,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1609717218,Quarterly,Building permits - m2 of useful floor area,Non-residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=455304291,Quarterly,Building permits - m2 of useful floor area,Non-residential buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=810654642,Quarterly,Building permits - m2 of useful floor area,"Non-residential buildings, except office buildings",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=1445452240,Quarterly,Building permits - m2 of useful floor area,"Non-residential buildings, except office buildings",Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
+,#gid=1105648347,Quarterly,Building permits - m2 of useful floor area,Office buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2021=100"
+,#gid=2082488966,Quarterly,Building permits - m2 of useful floor area,Office buildings,Unadjusted data (i.e. neither seasonally adjusted nor calendar adjusted data),"Index, 2015=100"
